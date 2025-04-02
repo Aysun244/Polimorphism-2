@@ -1,0 +1,15 @@
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\bin\Debug\net8.0\Polimorphism-2.exe
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\bin\Debug\net8.0\Polimorphism-2.deps.json
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\bin\Debug\net8.0\Polimorphism-2.runtimeconfig.json
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\bin\Debug\net8.0\Polimorphism-2.dll
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\bin\Debug\net8.0\Polimorphism-2.pdb
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\obj\Debug\net8.0\Polimorphism-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\obj\Debug\net8.0\Polimorphism-2.AssemblyInfoInputs.cache
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\obj\Debug\net8.0\Polimorphism-2.AssemblyInfo.cs
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\obj\Debug\net8.0\Polimorphism-2.csproj.CoreCompileInputs.cache
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\obj\Debug\net8.0\Polimorphism-2.sourcelink.json
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\obj\Debug\net8.0\Polimorphism-2.dll
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\obj\Debug\net8.0\refint\Polimorphism-2.dll
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\obj\Debug\net8.0\Polimorphism-2.pdb
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\obj\Debug\net8.0\Polimorphism-2.genruntimeconfig.cache
+C:\Users\Aysun\OneDrive\Desktop\Polimorphism-2\Polimorphism-2\Polimorphism-2\obj\Debug\net8.0\ref\Polimorphism-2.dll
